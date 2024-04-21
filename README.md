@@ -71,4 +71,4 @@ SDL_Rect Entity::getCurrentFrame()
 {
 	return currentFrame; // Return current frame rectangle
 }
-```cpp
+
