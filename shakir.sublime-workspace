@@ -1,0 +1,196 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"p_entity"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			]
+		]
+	},
+	"build_system": "Build Release",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/shaki/Desktop/sdl_sub/shakir.sublime-project",
+		"/C/Users/shaki/Desktop/sdl_sub/include/Entity.hpp",
+		"/C/Users/shaki/Desktop/sdl_sub/src/main.cpp",
+		"/C/Users/shaki/Desktop/sdl_sub/build.bat",
+		"/C/Users/shaki/Desktop/sdl_sub/src/Entity.cpp",
+		"/C/Users/shaki/Desktop/sdl_sub/src/RenderWindow.cpp",
+		"/C/Users/shaki/Downloads/shakir.png",
+		"/C/Users/shaki/Desktop/sdl_sub/include/RenderWindow.hpp",
+		"/C/Users/shaki/Desktop/sdl_sub/include/RenderWindow.h",
+		"/C/Users/shaki/Desktop/sdl_sub/shakir.sublime-workspace",
+		"/C/Users/shaki/Desktop/sdl_sub/bin/debug/main.exe",
+		"/C/Users/shaki/Desktop/sdl_sub/bin/debug/SDL2.dll",
+		"/C/Users/shaki/Desktop/sdl_sub/bin/debug/SDL2_image.dll",
+		"/C/Users/shaki/Desktop/sdl_sub/bin/release/main.exe",
+		"/C/Users/shaki/Desktop/sdl_sub/bin/release/SDL2.dll",
+		"/C/Users/shaki/Desktop/sdl_sub/bin/release/SDL2_image.dll",
+		"/C/Users/shaki/Desktop/sdl_sub/include/window.h",
+		"/C/Users/shaki/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"d"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 58.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 139.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Debug",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
